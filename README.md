@@ -111,7 +111,11 @@ VS Code • Git • GitHub
 ₊˚⊹♡ GitHub Stats ♡⊹˚₊
  
 <div align="center">
-  
+ 
+![Estatísticas do GitHub](https://vercel.app)
+
+![Linguagens mais usadas](https://vercel.app)
+
 </div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━
