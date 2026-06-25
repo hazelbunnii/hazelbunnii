@@ -1,4 +1,4 @@
-#૮꒰ྀི∩´ ᵕ `∩꒱ྀིა ♡ Hazel ♡
+# ૮꒰ྀི∩´ ᵕ `∩꒱ྀིა ♡ Hazel ♡
  
 « *⋆｡˚୨୧˚｡⋆ 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒾𝓃 𝓉𝓇𝒶𝒾𝓃𝒾𝓃𝑔 ⋆｡˚୨୧˚｡⋆*
  
@@ -6,7 +6,7 @@
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
-##⋆𐙚₊˚⊹ Sobre mim ⊹˚₊𐙚⋆
+## ⋆𐙚₊˚⊹ Sobre mim ⊹˚₊𐙚⋆
  
 ୨୧ 🖤 Estudante técnica em Desenvolvimento de Sistemas
  
@@ -26,7 +26,7 @@
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
-##🖤🎀 𝓕𝓾𝓽𝓾𝓻𝓸 & 𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸𝓼 🎀🖤
+## 🖤🎀 𝓕𝓾𝓽𝓾𝓻𝓸 & 𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸𝓼 🎀🖤
  
 ୨୧ Trabalhar com desenvolvimento e projetos que realmente me inspirem
  
@@ -46,7 +46,7 @@
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
-##⋆｡‧˚ʚ🎮ɞ˚‧｡⋆ Interesses ⋆｡‧˚ʚ🎮ɞ˚‧｡⋆
+## ⋆｡‧˚ʚ🎮ɞ˚‧｡⋆ Interesses ⋆｡‧˚ʚ🎮ɞ˚‧｡⋆
  
 🖤 Jogos
  
@@ -74,27 +74,27 @@
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
-##୨୧🖤 Tecnologias & Ferramentas 🖤୨୧
+## ୨୧🖤 Tecnologias & Ferramentas 🖤୨୧
  
-###♡ Front-end
+### ♡ Front-end
  
 HTML • CSS • JavaScript
  
-###♡ Back-end & Banco de Dados
+### ♡ Back-end & Banco de Dados
  
 Node.js • SQL Server
  
-###♡ Mobile
+### ♡ Mobile
  
 Android Studio
  
-###♡ Ferramentas
+### ♡ Ferramentas
  
 VS Code • Git • GitHub
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
-##🎀 O que você encontrará aqui 🎀
+## 🎀 O que você encontrará aqui 🎀
  
 ୨୧ Experimentos e estudos
  
@@ -108,7 +108,7 @@ VS Code • Git • GitHub
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
-₊˚⊹♡ GitHub Stats ♡⊹˚₊
+## ₊˚⊹♡ GitHub Stats ♡⊹˚₊
  
 <div align="center">
  
@@ -124,4 +124,4 @@ VS Code • Git • GitHub
  
 ૮꒰ྀི∩´ ᵕ `∩꒱ྀིა
  
-˚₊‧꒰ა ♱ ໒꒱ ‧₊˚
+˚₊‧꒰ა 𖹭 ໒꒱ ‧₊˚
