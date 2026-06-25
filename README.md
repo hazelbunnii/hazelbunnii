@@ -2,7 +2,7 @@
  
 « *⋆｡˚୨୧˚｡⋆ 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒾𝓃 𝓉𝓇𝒶𝒾𝓃𝒾𝓃𝑔 ⋆｡˚୨୧˚｡⋆*
  
-*🎀🖤 Ensino Médio com Formação Técnica • Clodoveu - ETEC 🖤🎀*»
+*🎀🖤 Ensino Médio com Formação Técnica • Clodoveu - ETEC 🖤🎀* »
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
@@ -12,15 +12,15 @@
  
 ୨୧ 🩷 Atualmente estudando:
  
-« Front-end • Back-end • Android Studio • Versionamento»
+« Front-end • Back-end • Android Studio • Versionamento »
  
 ୨୧ 🖤 Nas horas vagas:
  
-« Desenvolvendo jogos, criando projetos e fazendo histórias»
+« Desenvolvendo jogos, criando projetos e fazendo histórias »
  
 ୨୧ 🩷 Sempre aprendendo algo novo
  
-«Seja uma tecnologia, uma ferramenta ou um conceito que ainda não domino»
+« Seja uma tecnologia, uma ferramenta ou um conceito que ainda não domino »
  
 ♡₊˚ "Entre arte, criatividade e linhas de código, sempre existe algo novo para construir." ₊˚♡
  
