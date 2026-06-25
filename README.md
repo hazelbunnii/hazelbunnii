@@ -125,12 +125,6 @@
  
 <div align="center">
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazelbunnii&hide_border=true"/>
- 
-</div>
- 
-<div align="center">
- 
 <img src="https://komarev.com/ghpvc/?username=hazelbunnii&label=🎀%20Visitors&style=flat"/>
  
 </div>
