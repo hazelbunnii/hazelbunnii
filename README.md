@@ -112,10 +112,22 @@ VS Code • Git • GitHub
  
 <div align="center">
  
-![Estatísticas do GitHub](https://vercel.app)
-
-![Linguagens mais usadas](https://vercel.app)
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hazelbunnii&show_icons=true&hide_border=true&theme=transparent"/>
+ 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazelbunnii&layout=compact&hide_border=true&theme=transparent"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazelbunnii&hide_border=true"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://komarev.com/ghpvc/?username=hazelbunnii&label=🎀%20Visitors&style=flat"/>
+ 
 </div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━
