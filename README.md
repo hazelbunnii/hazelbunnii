@@ -50,27 +50,27 @@
  
 🖤 Jogos
  
-«Gameplay, design, mecânicas e desenvolvimento»
+« Gameplay, design, mecânicas e desenvolvimento »
  
 🩷 Música
  
-«Descobrir sons novos e admirar como uma trilha pode transformar uma experiência»
+« Descobrir sons novos e admirar como uma trilha pode transformar uma experiência »
  
 🖤 Desenho
  
-«Personagens, conceitos visuais e ideias rabiscadas sem motivo aparente»
+« Personagens, conceitos visuais e ideias rabiscadas sem motivo aparente »
  
 🩷 Animação
  
-«Dar vida a ilustrações e personagens»
+« Dar vida a ilustrações e personagens »
  
 🖤 Arte 3D & 2D
  
-«Modelagem, concept art e criação de assets»
+« Modelagem, concept art e criação de assets »
  
 🩷 Projetos
  
-« *Aquelas ideias que aparecem do nada e acabam virando algo de verdade* »
+« Aquelas ideias que aparecem do nada e acabam virando algo de verdade »
  
 ━━━━━━━━━━━━━━━━━━━━━━━
  
