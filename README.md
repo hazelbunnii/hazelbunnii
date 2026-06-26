@@ -3,8 +3,8 @@
 « *⋆｡˚୨୧˚｡⋆ 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒾𝓃 𝓉𝓇𝒶𝒾𝓃𝒾𝓃𝑔 ⋆｡˚୨୧˚｡⋆*
  
 *🎀🖤 Ensino Médio com Formação Técnica • Clodoveu - ETEC 🖤🎀* »
- 
-━━━━━━━━━━━━━━━━━━━━━━━
+
+ ---
  
 ## ⋆𐙚₊˚⊹ Sobre mim ⊹˚₊𐙚⋆
  
@@ -24,7 +24,7 @@
  
 ♡₊˚ "Entre arte, criatividade e linhas de código, sempre existe algo novo para construir." ₊˚♡
  
-━━━━━━━━━━━━━━━━━━━━━━━
+---
  
 ## 🖤🎀 𝓕𝓾𝓽𝓾𝓻𝓸 & 𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸𝓼 🎀🖤
  
@@ -44,7 +44,7 @@
 "Todo projeto começa como uma ideia simples perdida em algum canto da imaginação."
 ⊹˚₊ ✦
  
-━━━━━━━━━━━━━━━━━━━━━━━
+---
  
 ## ⋆｡‧˚ʚ🎮ɞ˚‧｡⋆ Interesses ⋆｡‧˚ʚ🎮ɞ˚‧｡⋆
  
@@ -72,7 +72,7 @@
  
 « Aquelas ideias que aparecem do nada e acabam virando algo de verdade »
  
-━━━━━━━━━━━━━━━━━━━━━━━
+---
  
 ## ୨୧🖤 Tecnologias & Ferramentas 🖤୨୧
  
@@ -97,7 +97,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  
-━━━━━━━━━━━━━━━━━━━━━━━
+---
  
 ## 🎀 O que você encontrará aqui 🎀
  
@@ -111,7 +111,7 @@
  
 ୨୧ Ideias transformadas em código
  
-━━━━━━━━━━━━━━━━━━━━━━━
+---
  
 ## ₊˚⊹♡ GitHub Stats ♡⊹˚₊
  
@@ -129,7 +129,7 @@
  
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━
+---
  
 🖤🎀 Obrigada por visitar meu perfil! 🎀🖤
  
