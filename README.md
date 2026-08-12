@@ -117,15 +117,22 @@
  
 <div align="center">
  
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hazelbunnii&show_icons=true&hide_border=true&theme=transparent"/>
- 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazelbunnii&layout=compact&hide_border=true&theme=transparent"/>
+<table align="center">
+  <tr>
+    <td>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hazelbunnii&show_icons=true&hide_border=true&theme=transparent"/>
+    </td>
+    <td>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazelbunnii&layout=compact&hide_border=true&theme=transparent"/>
+    </td>
+  </tr>
+</table>
  
 </div>
  
 <div align="center">
  
-<img src="https://komarev.com/ghpvc/?username=hazelbunnii&label=🎀%20Visitors&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=hazelbunnii&label=🩷%20Bunnies&style=flat"/>
  
 </div>
 
