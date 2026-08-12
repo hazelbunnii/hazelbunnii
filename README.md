@@ -115,20 +115,7 @@
  
 ## ₊˚⊹♡ GitHub Stats ♡⊹˚₊
  
-<div align="center">
- 
-<table align="center">
-  <tr>
-    <td>
-      <img height="170em" src="https://vercel.app"/>
-    </td>
-    <td>
-      <img height="170em" src="https://vercel.app"/>
-    </td>
-  </tr>
-</table>
- 
-</div>
+(Indisponível no momento)
  
 <div align="center">
  
