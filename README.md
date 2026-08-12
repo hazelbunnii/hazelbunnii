@@ -125,8 +125,6 @@
 
 ---
  
-˙ . ꒷ 🍰 . 𖦹˙— Obrigada por visitar meu perfil! 
- 
-૮꒰ྀི∩´ ᵕ `∩꒱ྀིა
+˙ . ꒷ 🍰 . 𖦹˙— Obrigada por visitar meu perfil! ૮꒰ྀི∩´ ᵕ `∩꒱ྀིა
  
 ˚₊‧꒰ა 𖹭 ໒꒱ ‧₊˚
