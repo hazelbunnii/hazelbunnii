@@ -2,19 +2,19 @@
  
 « *⋆｡˚୨୧˚｡⋆ 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒾𝓃 𝓉𝓇𝒶𝒾𝓃𝒾𝓃𝑔 ⋆｡˚୨୧˚｡⋆*
  
-*🎀🖤 Ensino Médio com Formação Técnica • Clodoveu - ETEC 🖤🎀* »
+*🎀🐇 Ensino Médio com Formação Técnica • Clodoveu - ETEC 🐇🎀* »
 
  ---
  
 ## ⋆𐙚₊˚⊹ Sobre mim ⊹˚₊𐙚⋆
  
-୨୧ 🖤 Estudante técnica em Desenvolvimento de Sistemas
+୨୧ 🪽 Estudante técnica em Desenvolvimento de Sistemas
  
 ୨୧ 🩷 Atualmente estudando:
  
 « Front-end • Back-end • Android Studio • Versionamento »
  
-୨୧ 🖤 Nas horas vagas:
+୨୧ 🪽 Nas horas vagas:
  
 « Desenvolvendo jogos, criando projetos e fazendo histórias »
  
@@ -26,7 +26,7 @@
  
 ---
  
-## 🖤🎀 𝓕𝓾𝓽𝓾𝓻𝓸 & 𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸𝓼 🎀🖤
+## 🍦🎀 𝓕𝓾𝓽𝓾𝓻𝓸 & 𝓞𝓫𝓳𝓮𝓽𝓲𝓿𝓸𝓼 🎀🍦
  
 ୨୧ Trabalhar com desenvolvimento e projetos que realmente me inspirem
  
@@ -48,7 +48,7 @@
  
 ## ⋆｡‧˚ʚ🎮ɞ˚‧｡⋆ Interesses ⋆｡‧˚ʚ🎮ɞ˚‧｡⋆
  
-🖤 Jogos
+⁠🪽 Jogos
  
 « Gameplay, design, mecânicas e desenvolvimento »
  
@@ -56,7 +56,7 @@
  
 « Descobrir sons novos e admirar como uma trilha pode transformar uma experiência »
  
-🖤 Desenho
+🪽 Desenho
  
 « Personagens, conceitos visuais e ideias rabiscadas sem motivo aparente »
  
@@ -64,7 +64,7 @@
  
 « Dar vida a ilustrações e personagens »
  
-🖤 Arte 3D & 2D
+🪽 Arte 3D & 2D
  
 « Modelagem, concept art e criação de assets »
  
@@ -74,7 +74,7 @@
  
 ---
  
-## ୨୧🖤 Tecnologias & Ferramentas 🖤୨୧
+## ୨୧🍰 Tecnologias & Ferramentas 🍰୨୧
  
 ### ♡ Front-end
  
@@ -131,7 +131,7 @@
 
 ---
  
-🖤🎀 Obrigada por visitar meu perfil! 🎀🖤
+˙ . ꒷ 🍰 . 𖦹˙— Obrigada por visitar meu perfil! 
  
 ૮꒰ྀི∩´ ᵕ `∩꒱ྀིა
  
