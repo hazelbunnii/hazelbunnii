@@ -120,10 +120,10 @@
 <table align="center">
   <tr>
     <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hazelbunnii&show_icons=true&hide_border=true&theme=transparent"/>
+      <img height="170em" src="https://vercel.app"/>
     </td>
     <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazelbunnii&layout=compact&hide_border=true&theme=transparent"/>
+      <img height="170em" src="https://vercel.app"/>
     </td>
   </tr>
 </table>
